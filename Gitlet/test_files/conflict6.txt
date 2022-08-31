@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+This is a wug.
+=======
+This is not a wug.
+<<<<<<< HEAD
+>>>>>>>
+=======
+>>>>>>>
+>>>>>>> 25b4d4593f721c34e8d02038e24c1a213feffb63
